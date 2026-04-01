@@ -1,0 +1,6 @@
+@ServiceA.ContentApI_HostAddress = http://localhost:5044
+
+GET {{ServiceA.ContentApI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
