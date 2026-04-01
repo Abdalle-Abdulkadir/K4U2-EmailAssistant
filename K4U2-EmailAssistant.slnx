@@ -1,4 +1,0 @@
-<Solution>
-  <Project Path="ServiceA.ContentApI/ServiceA.ContentApI.csproj" />
-  <Project Path="ServiceB.LLMProxyAPI/ServiceB.LLMProxyAPI.csproj" />
-</Solution>
